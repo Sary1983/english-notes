@@ -13,3 +13,9 @@ Semi-colons indicate an audible plause. SLightly longer than a comma, but short 
 `Examples` ->
 - Call me tomorrow; you can give me answer then.
 - We have paid our dues; we expect all the privileges listed in the contract.
+
+2) Use a semicolon when you join two sentences together with one of the following conjuctive adverbs (these are known as transitional phrases **however, moreover, therefore, otherwise**). You can also use a comma before these.
+
+`Example` -> 
+Bring any two items; however, sleeping bags and tents are in short supply.
+There are many stressors students are facing today; therefore, it is important for them to find balance in life between work and play.
