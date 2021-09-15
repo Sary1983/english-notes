@@ -17,5 +17,12 @@ Semi-colons indicate an audible plause. SLightly longer than a comma, but short 
 2) Use a semicolon when you join two sentences together with one of the following conjuctive adverbs (these are known as transitional phrases **however, moreover, therefore, otherwise**). You can also use a comma before these.
 
 `Example` -> 
-Bring any two items; however, sleeping bags and tents are in short supply.
-There are many stressors students are facing today; therefore, it is important for them to find balance in life between work and play.
+- Bring any two items; however, sleeping bags and tents are in short supply.
+- There are many stressors students are facing today; therefore, it is important for them to find balance in life between work and play.
+
+### if you use a semi-colon to join two sentences and there is a transistional phrase, you must include a comma after the phrase.
+
+3) Use a semicolon to separate units of a series when one or more of the units contain commas. 
+
+`Incorrect` - THe conference has people that come from moscow, idaho, springfield, california, alamo, tennessee, and other places as well. 
+`COrrect` - THe conference has people who have come from Moscow, Idaho; Springfield, California; Alamo, Tennessee; and other places as well.
