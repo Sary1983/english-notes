@@ -27,6 +27,6 @@ Semi-colons indicate an audible plause. SLightly longer than a comma, but short 
 `Incorrect` - THe conference has people that come from moscow, idaho, springfield, california, alamo, tennessee, and other places as well. 
 `COrrect` - THe conference has people who have come from Moscow, Idaho; Springfield, California; Alamo, Tennessee; and other places as well.
 
-`Practice`
+## Practice
 1) You are going to love my friend Sara; she is one of the sweetest people I know.
 2) I mapped out the route to make sure we stop in some of my favorite cities such as Alexandria, Virginia; Raleigh, North Carolina; and Hilton Head; South Carolina.
