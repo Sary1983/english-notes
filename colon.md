@@ -24,5 +24,5 @@ I need an aassistant who can do the following: input data, write reports, and co
 
 ## Quick Practice
 
-1) There are three things you need to be successful in class: dedication, hard  work, and good study skills.
-2) My daughter wants several gifts for her birthday, including a doll puzzle and a new bike. 
+1) There are three things you need to be successful in class: dedication, hard  work and good study skills.
+2) My daughter wants several gifts for her birthday, including a doll, puzzle and a new bike. 
