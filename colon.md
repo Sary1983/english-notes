@@ -21,3 +21,8 @@ I need an aassistant who can do the following: input data, write reports, and co
 - "such as" is being used for the same purpose as the colon in this example.
 
 - Correct I need a few things from the store: butter, sugar, and flour. / I need a few things from the store, such as butter, sugar, and flour.
+
+## Quick Practice
+
+1) There are three things you need to be successful in class: dedication, hard  work, and good study skills.
+2) My daughter wants several gifts for her birthday, including a doll puzzle and a new bike. 
