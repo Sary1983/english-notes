@@ -6,7 +6,7 @@ Generally, it is a method of **INTRODUCING** a list or an example whilse a semi-
 
 ## THe Rules
 
-!) Use a colon to introduce a series of items. DO not capitalize the first item after the colon unless its a proper noun.
+1) Use a colon to introduce a series of items. DO not capitalize the first item after the colon unless its a proper noun.
 
 `Examples` -> 
 You may be required to bring many things: sleeping bags, pans, utensils, and warm clothing. 
@@ -14,3 +14,10 @@ You may be required to bring many things: sleeping bags, pans, utensils, and war
 I want the following items: butter, sugar, and flour. 
 
 I need an aassistant who can do the following: input data, write reports, and complete tax forms. 
+
+2) Avoid using a colon before a list when the sentence already includes an introduction to the list. 
+
+- Incorrect: I need a few things from the store, such as: butter, sugar, and flour.
+- "such as" is being used for the same purpose as the colon in this example.
+
+- Correct I need a few things from the store: butter, sugar, and flour. / I need a few things from the store, such as butter, sugar, and flour.
