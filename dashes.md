@@ -30,3 +30,8 @@ __With Dash:__ There is one thing I hate above all else - spiders!
  - __With Dash__ THe man(**em dash**)he was from AMes, Iowa(**em dash**)arrived.
  - __WIthout Dash__ THe may 1, 2013, edition of the Ames Sentinel arrived in June.
  - __With Dash__ The AMes Sentinel(**em dash**)dates May 1, 2013(**em dash**)arrived in june.
+
+### Pracice
+- I think we need on more ingredient(**em dash**)chocolate!
+- STeve and Tim(**em dash**)my brothers(**em dash**)are stopping by this evening.
+- Maleficent(**em dash**)my favorite Disney villain(**em dash**) is simply a misunderstood hero.
