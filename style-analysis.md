@@ -19,3 +19,10 @@
 - **thid person omniscient** (all knowing; all character thoguhts are revealed) - Sara ignored jamie and coontinued to gaze at the stars.
 
 2) Determine if the diction is it is formal or casual. This will help display the author's purpose.
+
+### Formal | Informal
+- Academic | Slang
+- Jargon | Colloquial
+-  | Dialect
+
+Always try to point out the dtype of diction.
