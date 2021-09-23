@@ -14,8 +14,8 @@
 
 ### point of views
 **first person** (I, me, my) - I went to the store today. While there, I bumped into an old friend.
-**second person** (you instructions/directions) - You should work on getting your room cleaned. First, pick up all the clothes.
-**third person - imited** (he, she, it, they, them, told through one character) - He could tell from the expression on her face what he had said upset her.
-**thid person omniscient** (all knowing; all character thoguhts are revealed) - Sara ignored jamie and coontinued to gaze at the stars.
+\n **second person** (you instructions/directions) - You should work on getting your room cleaned. First, pick up all the clothes.
+\n **third person - imited** (he, she, it, they, them, told through one character) - He could tell from the expression on her face what he had said upset her.
+\n **thid person omniscient** (all knowing; all character thoguhts are revealed) - Sara ignored jamie and coontinued to gaze at the stars.
 
 2) Determine if the diction is it is formal or casual. This will help display the author's purpose.
