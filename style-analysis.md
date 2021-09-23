@@ -10,3 +10,4 @@
 
 ### A writer's stlye is what sets their writing apart and makes it unique. Style is the way writing is dressed up to fit the context, purpose or audience. Word choice, sentence fluency, and the writer's voice all contribute to the style of a piece of writing.
 
+1) Figure out the author's point of view as it can affect the other style of elements. For example, a first person point of view would add a personalized perspective, whereas a third person limited would detach the author from the writing.
