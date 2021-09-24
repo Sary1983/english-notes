@@ -6,6 +6,8 @@ Semi-colons indicate an audible plause. SLightly longer than a comma, but short 
 `Correct` I have on goal: to find her.
 `Incorrect` I have one goal; to find her.
 
+When using semi-colons, you must
+
 # The Rules
 
 1) A semi-colon can replace a period if the writer wishes to narrow the gap between two closely linked sentences.
