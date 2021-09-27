@@ -57,3 +57,16 @@ WHen onsidering structure, look at how the paragraphs are organized, how the tex
 **The Organization of words in a sentence.**
 - Changing the organization of words can affect meaning, understanding, and emphasis.
 - Together with syntax, you also want to consider punctuation (end punctuation, pausing devices, etc) and types of sentences.
+
+### Types of Sentences
+Sentences can be described based on their purpose and construction.
+
+**Purpose**
+- Declarative -> makes a statement
+- Imperative -> gives a command
+- Interrogative -> asks a question.
+
+**Construction**
+- Simple
+- Compound
+- Complex
