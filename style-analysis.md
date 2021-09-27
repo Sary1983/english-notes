@@ -52,3 +52,8 @@ WHen onsidering structure, look at how the paragraphs are organized, how the tex
 6) deductive (general to specific)
 7) Division into categories
 8) Ranking ("most \_\_" to "least \_\_")
+
+### Syntax
+**The Organization of words in a sentence.**
+- Changing the organization of words can affect meaning, understanding, and emphasis.
+- Together with syntax, you also want to consider punctuation (end punctuation, pausing devices, etc) and types of sentences.
