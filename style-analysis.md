@@ -39,3 +39,16 @@ Always try to point out the dtype of diction.
 - `Organization` -> narrative or note-like
 - `POV` -> personal; third limited or first person
 - `Sentences` -> Not much variation; simple or compound sentences.
+
+### Struture
+Writing is organized in various ways depending upon the author's purpose: to inform, to entertain, to express a belief/opinion, to persuade.
+WHen onsidering structure, look at how the paragraphs are organized, how the text begins and ends, etc.
+
+1) cause -> effect
+2) problem -> solution
+3) Chronological order
+4) Compare -> contrast
+5) Inductive (specific to general)
+6) deductive (general to specific)
+7) Division into categories
+8) Ranking ("most \_\_" to "least \_\_")
