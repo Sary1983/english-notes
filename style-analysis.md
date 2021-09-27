@@ -26,3 +26,16 @@
 -  | Dialect
 
 Always try to point out the dtype of diction.
+
+### Formality in Style
+**Formal Writing:**
+- `Vocab` -> high-level; business-like
+- `Organization of text` -> very structured; perhaps with subtopics
+- `Semtences` -> Structure varies (s/cd/cx)
+- `POV` -> Usually 3rd person omnicient (except for business letters)
+
+**Informal:**
+- `Vocab` -> low level; slang/dialogue
+- `Organization` -> narrative or note-like
+- `POV` -> personal; third limited or first person
+- `Sentences` -> Not much variation; simple or compound sentences.
