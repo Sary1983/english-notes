@@ -21,9 +21,9 @@
 2) Determine if the diction is it is formal or casual. This will help display the author's purpose.
 
 ### Formal | Informal
-- Academic | Slang
-- Jargon | Colloquial
--  | Dialect
+- Academic - Nonfiction (Scientific Articles) | Slang - (texts)
+- Jargon - Specific to a certain job or task (Resume / perhaps using programming terminology) | Colloquial - (Conversations)
+-  | Dialect - Talking style of specific places (country side perhaps)
 
 Always try to point out the dtype of diction.
 
@@ -70,3 +70,5 @@ Sentences can be described based on their purpose and construction.
 - Simple
 - Compound
 - Complex
+
+### Diction
