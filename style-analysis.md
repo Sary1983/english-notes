@@ -92,4 +92,6 @@ Indentifying tone is all about knowing the definitions of many descriptive vocab
 Another thing to remember is that **tone** is highly influenced by connotation, or the emotional understanding we have for a term.
 
 Denotation - Dictionary definition.
-Connotation - The feel we get from something.
+Connotation - The inferred feeling of something. 
+
+Tone and Mood are not the same thing. The tone is how the author feels about the subject through diction. The mood is how the reader is made to feel. For instance, an angry tone might make you feel scared or intimidated.
