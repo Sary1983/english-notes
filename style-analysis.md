@@ -79,3 +79,8 @@ Sentences can be described based on their purpose and construction.
 2) The exact **word choice** to find examples of the diction you are describing. Supporting evidence.
 - Ex. Defendant, Plantiff, etc.
 - Jump up and crack yo heels - Twain
+
+## Tone
+### TOne is the author's attitude toward the subject.
+You can recognize the tone/attitude by the language/word choices that the author uses. His language will reveal his persepctive/opinion. (That is, whether it is possible/negative) about the subject.
+Tone must be inferred through the use of descriptive words. 
