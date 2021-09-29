@@ -84,3 +84,5 @@ Sentences can be described based on their purpose and construction.
 ### TOne is the author's attitude toward the subject.
 You can recognize the tone/attitude by the language/word choices that the author uses. His language will reveal his persepctive/opinion. (That is, whether it is possible/negative) about the subject.
 Tone must be inferred through the use of descriptive words. 
+
+Go in depth; describe the tone. A negative tone can mean anything: angry, sad, etc.
