@@ -72,7 +72,7 @@ Sentences can be described based on their purpose and construction.
 - Complex
 
 ### Diction
-**The KEY to analyzing dction is in two steps:
+**The KEY to analyzing dction is in two steps:**
 1) Look at the **type** of language first - figure out the category and, more specifically, the sepcific type.
 - Ex. Formal Jargon
 - Ex. Informal Dialect
