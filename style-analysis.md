@@ -72,3 +72,10 @@ Sentences can be described based on their purpose and construction.
 - Complex
 
 ### Diction
+**The KEY to analyzing dction is in two steps:
+1) Look at the **type** of language first - figure out the category and, more specifically, the sepcific type.
+- Ex. Formal Jargon
+- Ex. Informal Dialect
+2) The exact **word choice** to find examples of the diction you are describing. Supporting evidence.
+- Ex. Defendant, Plantiff, etc.
+- Jump up and crack yo heels - Twain
