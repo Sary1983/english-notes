@@ -86,3 +86,10 @@ You can recognize the tone/attitude by the language/word choices that the author
 Tone must be inferred through the use of descriptive words. 
 
 Go in depth; describe the tone. A negative tone can mean anything: angry, sad, etc.
+
+Indentifying tone is all about knowing the definitions of many descriptive vocabulary words. Without this large vocab, it is difficult to describe outside of "good" and "bad".
+
+Another thing to remember is that **tone** is highly influenced by connotation, or the emotional understanding we have for a term.
+
+Denotation - Dictionary definition.
+Connotation - The feel we get from something.
